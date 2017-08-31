@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title> SCHS TSA </title>
+</head>
+<div>
+  <nav>
+    <a href="#home">Home</a>
+    <a href="#band">Our Chapter</a>
+    <a href="#tour">Our Programs</a> 
+    <a href="#contact">Design Brief</a>
+  </nav>
+</div>
+<div>
+	<section>
+		<div>
+			<h1>Learning to lead in a technical world</h1>
+		</div>
+	</section>
+</div>
+<div>
+	<section>
+		<p>info</p>
+		<p>info2</p>
+	</section>
+</div>
+</html>
