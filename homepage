@@ -1,27 +1,53 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title> SCHS TSA </title>
+<style>
+  body {
+  padding-top: 80px;
+  text-align: center;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  background: url() 50%;
+  background-size: cover;
+}
+h1, h2 {
+  display: inline-block;
+  background: #fff;
+}
+h1 {
+  font-size: 30px
+}
+h2 {
+  font-size: 20px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #74767a;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: #111;
+</style>
 </head>
-<div>
-  <nav>
-    <a href="#home">Home</a>
-    <a href="#band">Our Chapter</a>
-    <a href="#tour">Our Programs</a> 
-    <a href="#contact">Design Brief</a>
-  </nav>
-</div>
-<div>
-	<section>
-		<div>
-			<h1>Learning to lead in a technical world</h1>
-		</div>
-	</section>
-</div>
-<div>
-	<section>
-		<p>info</p>
-		<p>info2</p>
-	</section>
-</div>
+<body>
+<ul>
+  <li><a href="#home">Home</a></li>
+  <li><a href="#news">News</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li><a href="#about">About</a></li>
+</ul>
+</body>
+<h1>Robotai</h1><br>
+<h2>Robotics & Artificial Intelligence</h2><br>
+<h1>Featured</h1><br>
 </html>
