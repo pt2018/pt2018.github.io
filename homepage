@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html>
+<head>
+<title> Robotai Home Page </title>
 </head>
 <body>
 <ul>
   <li><a class="active" href="#home">Home</a></li>
-  <li class="dropdown"><a href="#robots" class="dropbtn">Robots</a>
+  <li class="dropdown"> <a href="#robots" class="dropbtn">Robots</a>
     <div class="dropdown-content">
       <a href="#">Amelia</a>
       <a href="#">Bruno</a></a>
