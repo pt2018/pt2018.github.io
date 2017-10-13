@@ -1,8 +1,11 @@
+@font-face {
+   font-family: Chub Gothic Regular; 
+   src: url('chubgothic_1.ttf');
+} 
 body {
    padding-top: 105px;
    text-align: center;
-   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif; 
-   /* Chub Gothic Regular */
+   font-family: Chub Gothic Regular
    background: url(/Images/asanoha-400px.png) 100%;
    background-size: cover;
 }
