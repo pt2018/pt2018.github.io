@@ -12,7 +12,7 @@ body {
    padding-top: 105px;
    text-align: center;
    font-family: 'chub_gothicregular';
-   background: url(/Images/asanoha-400px.png) 100%;
+   background: url(../img/asanoha-400px.png) 100%;
    background-size: cover;
 }
 div {
