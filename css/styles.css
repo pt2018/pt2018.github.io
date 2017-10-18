@@ -12,8 +12,6 @@ body {
    padding-top: 105px;
    text-align: center;
    font-family: 'chub_gothicregular';
-   background: url(../img/technobg.jpg) 100%;
-   background-size: cover;
 }
 div {
     width: 100px;
@@ -36,6 +34,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
+    background-color: #202123;
     position: fixed;
     top: 0;
     width: 100%;
@@ -52,9 +51,6 @@ li a, .dropbtn {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-}
-li a:hover, .dropdown:hover .dropbtn {
-    background-color: #111;
 }
 li.dropdown {
     display: inline-block;
@@ -87,10 +83,11 @@ li.dropdown {
    
 }
 #logo a {
+   text-decoration: none;
    float: left;
-   font-size: 15px;
    font-family: 'chub_gothicregular';
-   margin-top: 0;
+   font-size: 15px;
+   margin-top: 20px;
    font-weight: bold;
    color: #fff;
 }
