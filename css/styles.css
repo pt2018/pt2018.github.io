@@ -31,7 +31,14 @@ ul {
     top: 0;
     width: 100%;
 }
-
+div {
+    width: 100px;
+    height: 100px;
+    -webkit-transition: width 1s;
+    -moz-transition: width 1s;
+    -o-transition:  width 1s;
+    transition: width 1s;
+}
 li {
     float: left;
     border-right: 1px solid #bbb;
